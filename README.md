@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @soletur03
+- 👀 I’m interested in minecraft plugin development.
+- 🌱 I’m currently learning how to be a better person.
+- 📫 Reach me on discord @soletur.
